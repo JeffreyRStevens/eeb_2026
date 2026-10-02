@@ -108,7 +108,7 @@ Do pet dogs in the U.S. prefer the color yellow?
 
 ## Experiment 1 methods
 
-![](media/bowls_color.jpg){fig-align="center" fig-alt="Brown and white dog sitting behind grey, yellow, and blue bowls."}
+![](media/dog_color_dogbar.png){fig-align="center" fig-alt="Brown and white dog sitting behind grey, yellow, and blue bowls."}
 
 * Tested 75 dogs at dog parks, dog bars, etc.
 * Chose between grey, yellow, and blue bowls
@@ -124,20 +124,13 @@ Do pet dogs in the U.S. prefer the color yellow?
 
 * Tested 134 dogs under 7 years old at dog parks 
 * Chose between grey, yellow, and blue bowls
-* Recorded first bowl approached 
+<!-- * Recorded first bowl approached  -->
 <!-- * Some trials with no food -->
 
 
 ## Dogs preferred yellow
 
 ![](media/color2.png){fig-align="center"  fig-alt="Plot of number of subjects for each bowl color showing stronger preference for yellow over blue."}
-
-<!-- ![](media/color_yellow_linus2.png){.absolute top=120 left=550 height=500 fig-alt="Brown and white dog sitting with nose in yellow bowl."} -->
-
-
-<!-- ## No effect of food present/absent -->
-
-<!-- ![](media/color_food2.png){fig-align="center" fig-alt="Plot of number of subjects choosing blue, grey, and yellow bowls with separate panels for with and without food."} -->
 
 ## No effect of position
 
@@ -169,7 +162,7 @@ Do pet dogs in the U.S. prefer the color yellow?
 ![](media/bowls_color_filter_cropped.png){.absolute top=450 left=175 width=700 fig-alt="Image of wooden tray with blue, yellow, and grey bowls using a filter for dog vision."}
 
 
-## Experiment 2 methods
+## Experiment 3 methods
 
 ![](media/bowls_grey.jpg){fig-align="center" fig-alt="Illustration of light, medium, and grey bowl."}
 
@@ -212,13 +205,11 @@ Do pet dogs in the U.S. prefer the color yellow?
 :::
 
 
-## What is big team science?
+## Big team science
 
 <!-- Large-scale collaborations where a large number of researchers across multiple independent research sites pool resources to conduct  the same study across sites. -->
 
-:::{.fragment}
 ![](media/world_network.png){fig-align="center" width="1000"}
-:::
 
 
 ## ManyX projects
@@ -370,11 +361,13 @@ library(icons)
 
 {{< fa brands bluesky >}} `@unlcchil.bsky.social`
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width="60%"} -->
-<!-- Stevens, J.R., Gatesy-Davis, A., Couture, S., & Worth, Y. (2026). Color preferences in dogs: A replication study. _PsyArXiv._ [doi:10.31234/osf.io/v8phx_v1](https://doi.org/10.31234/osf.io/v8phx_v1). -->
-<!-- ::: -->
-<!-- :::: -->
+:::: {.columns .fragment}
+::: {.column width="50%"}
+::: {.callout-important appearance="simple"}
+**PSYC 852: Data Processing and Visualization in the Behavioral Sciences**
+:::
+:::
+::::
 
 ![](media/dog_ball.jpg){.absolute top="15%" left="60%" height="550" fig-alt="Image of light brown dog with yellow tennis ball in its mouth."}
 
